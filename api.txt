@@ -1,0 +1,3 @@
+https://example.com/api/v1/users,GET
+https://example.com/api/v1/posts,POST
+https://example.com/login
